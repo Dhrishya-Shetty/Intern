@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+
+}
+header {
+    background-color: #c51350;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+nav {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+}
+.container {
+    padding: 20px;
+}
+.section {
+    padding: 20px 0;
+
+}
+.section h1 {
+    text-align: center;
+}
+.section p {
+    text-align: justify;
+}
+.contact-form {
+    text-align: center;
+    margin-top: 20px;
+}
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.contact-form button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+ul#remove {
+           list-style-type: none;
+           padding: 0;
+      }
+      body{
+        background-image :  url('Smvitm.jpg');
+      }
